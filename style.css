@@ -2,3 +2,25 @@ body {
 color: white;
 background: black;
 }
+
+header {
+border-bottom: solid 2px rgb(61, 212, 235);
+padding: 20px;
+font-size: 32px;
+color: rgb(61, 212, 235);
+
+}
+
+section {
+background: rgb(173, 95, 247);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+}
+
+.chamada-texto-flu {
+margin-right: 5%;
+
+
+}
