@@ -13,7 +13,7 @@ color: rgb(61, 212, 235);
 
 }
 
-section {
+.chamada {
 background: rgb(173, 95, 247);
 padding-bottom: 80px;
 padding-top: 80px;
@@ -34,4 +34,21 @@ font-size: 40px;
 p {
 font-size: 20px;
 
+}
+
+img {
+ height: 200px;
+
+}
+
+.outros-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+
+}
+
+.opcoes-videos {
+ padding-left: 20px;
+ padding-right: 20px;
 }
