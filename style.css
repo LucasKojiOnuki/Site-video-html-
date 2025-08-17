@@ -3,6 +3,7 @@ color: white;
 background: black;
 margin: 0px;
 font-family: "Montserrat", sans-serif;
+margin-bottom: 100px;
 }
 
 header {
@@ -51,4 +52,13 @@ img {
 .opcoes-videos {
  padding-left: 20px;
  padding-right: 20px;
+}
+
+.outros-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(44, 165, 235);
+}
+
+.opcoes-videos h2 {
+    color: rgb(195, 243, 61);
 }
