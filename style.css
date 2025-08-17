@@ -37,11 +37,6 @@ font-size: 20px;
 
 }
 
-img {
- height: 200px;
-
-}
-
 .outros-videos {
     display: flex;
     overflow-x: auto;
@@ -52,6 +47,11 @@ img {
 .opcoes-videos {
  padding-left: 20px;
  padding-right: 20px;
+}
+
+.outros-videos {
+ opacity: 0.5;
+ height: 200px;
 }
 
 .outros-videos img:hover {
