@@ -7,15 +7,16 @@ margin-bottom: 100px;
 }
 
 header {
-border-bottom: solid 2px rgb(61, 212, 235);
+border-bottom: solid 2px rgb(179, 240, 12);
 padding: 20px;
+font-family: "Bebas Neue", sans-serif;
 font-size: 32px;
-color: rgb(61, 212, 235);
+color: rgb(186, 240, 85);
 
 }
 
 .chamada {
-background: rgb(173, 95, 247);
+background: rgb(93, 119, 207);
 padding-bottom: 80px;
 padding-top: 80px;
 display: flex;
@@ -49,7 +50,7 @@ font-size: 20px;
  padding-right: 20px;
 }
 
-.outros-videos {
+.outros-videos img {
  opacity: 0.5;
  height: 200px;
 }
@@ -60,5 +61,5 @@ font-size: 20px;
 }
 
 .opcoes-videos h2 {
-    color: rgb(195, 243, 61);
+    color: rgb(195, 80, 230);
 }
